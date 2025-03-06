@@ -21,7 +21,7 @@ basic.forever(function () {
         soundPitch,
         soundPitch,
         255,
-        255,
+        100,
         500,
         SoundExpressionEffect.None,
         InterpolationCurve.Linear
